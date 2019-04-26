@@ -74,6 +74,7 @@ cd $WHEREAMI
 # sudo apt-get install libgl1 libglvnd-dev
  
 sudo apt-get install -y \
+    libcurl4 \
     cmake \
     libavcodec-dev \
     libavformat-dev \
